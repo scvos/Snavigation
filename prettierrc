@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://raw.githubusercontent.com/scvos/Snavigation/main/prettierrc.json",
+  "$id": "https://raw.githubusercontent.com/socns/Snavigation/main/prettierrc.json",
   "definitions": {
     "optionsDefinition": {
       "type": "object",
